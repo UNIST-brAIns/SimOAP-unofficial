@@ -2,14 +2,11 @@
 Unofficial Implementation of [SimOAP: Improve Coherence and Consistency in Persona-based Dialogue Generation via Over-sampling and Post-evaluation](https://arxiv.org/abs/2305.11130)
 
 # How to Use
-## Fine-tuning
+## Fine-tuning and Evaluation
 1. Download `pytorch_model.bin` from [DistilGPT2](https://huggingface.co/distilgpt2)
 2. `git clone` or manually upload this repository to your Google Drive's base directory. (i.e. `/content/drive/MyDrive` in Google Colab)
 3. Place downloaded `pytorch_model.bin` to `SimOAP-unofficial/gpt2-small/` directory.
 4. Run our script on [Google Colab](https://colab.research.google.com/drive/1ewPbywzTG0130uXuBhkOu_vep839HRuC?usp=sharing)
-
-## Evaluation
-
 
 # TODOs
 - [x] Oversampling
