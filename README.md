@@ -5,7 +5,7 @@ Unofficial Implementation of [SimOAP: Improve Coherence and Consistency in Perso
 ## Fine-tuning
 1. Download `pytorch_model.bin` from [DistilGPT2](https://huggingface.co/distilgpt2)
 2. `git clone` or manually upload this repository to your Google Drive's base directory. (i.e. `/content/drive/MyDrive` in Google Colab)
-3. Place downloaded `pytorch_model.bin` to `repo_name/gpt2-small/` directory.
+3. Place downloaded `pytorch_model.bin` to `SimOAP-unofficial/gpt2-small/` directory.
 4. Run our script on [Google Colab](https://colab.research.google.com/drive/1ewPbywzTG0130uXuBhkOu_vep839HRuC?usp=sharing)
 
 ## Evaluation
